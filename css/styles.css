@@ -61,6 +61,11 @@ article h2{
   align-items: center;
   justify-content: space-between;
 }
+.menu-container .social a{
+  font-size: 18px;
+  padding-left: 10px;
+  color: black;
+}
 .logo-container {
   margin: 0;
   height: 100%;
@@ -459,6 +464,9 @@ figure {
   /***************** about-me ****************/
 }
 @media screen and (max-width: 992px){
+  .menu-container .social {
+    display: none;
+  }
   .about-me .grid-container{
     grid-template-columns: 150px 150px 1fr 1fr 1fr ;
     grid-template-areas:  "photo photo title title title"
