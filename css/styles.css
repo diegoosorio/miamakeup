@@ -262,6 +262,16 @@ figure {
 }
 /*************** Curso *************/
 /*************** contact-me *****************/
+.contact-me .title{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.contact-me .title a{
+  font-size: 18px;
+  padding-left: 10px;
+  color: black;
+}
 .contact-me .description{
   width: 100%;
   text-align: left;
