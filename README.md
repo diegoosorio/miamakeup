@@ -1,2 +1,1 @@
-# miamakeup
-Maquillaje Profesional en Medellín, por Estefanía Cuartas
+Maquillaje profesional en Medellín, por Estefanía Cuartas.
